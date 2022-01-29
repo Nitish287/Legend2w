@@ -2,7 +2,7 @@
 <b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/Nitish287/LEGENDUSERBOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/Nitish287/LEGENDUSERBOT.git`
+`git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
